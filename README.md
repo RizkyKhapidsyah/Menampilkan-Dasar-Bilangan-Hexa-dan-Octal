@@ -1,5 +1,5 @@
 # Menampilkan-Dasar-Bilangan-Hexa-dan-Octal
-Bahan Ajar Fundamental Pemrograman C++ - Menampilkan Dasar Bilangan Hexa dan Octal Menggunakan ios::showbase<br><br>
+Bahan Ajar Fundamental Pemrograman C++ - Menampilkan Dasar Bilangan Hexa dan Octal Menggunakan <code>ios</code>::showbase<br><br>
 Untuk keperluan menampilkan dasar bilangan Hexadecimal dan Oktal dengan menggunakan tanda format:
 <code>ios::showbase</code> digunakan untuk menampilkan tanda <code>0x</code> (nol-x) diawal pada tampilan bilangan hexadecimal dan <code>0</code> (nol) 
 diawal pada tampilan bilangan decimal.
